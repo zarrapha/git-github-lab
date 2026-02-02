@@ -1,0 +1,16 @@
+html {
+    background-color: lightcoral;
+}
+
+h1,h2 {
+    color: wheat;
+    text-align: center;
+}
+
+h1 {
+    font-size: small;
+}
+
+h2 {
+    font-size: xx-large;
+}
